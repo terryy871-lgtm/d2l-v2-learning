@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "5abfbe1ed75d7ef8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7286c8110b83108f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df5f9eeb0400b776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "深度学习入门 基于Python的理论与实现/《深度学习入门 基于Python的理论与实现》笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "《深度学习入门 基于Python的理论与实现》笔记"
+            }
+          },
+          {
+            "id": "f21596ea0666da09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "23-DenseNet学习笔记.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23-DenseNet学习笔记"
+            }
+          },
+          {
+            "id": "38d00052c83157f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "43-Transformer学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "43-Transformer学习笔记"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1df5352664bed0a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "66aaeb12a13ef81a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df83faf6b877f871",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a52c499f3c32aa22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d8697f4d4506631e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6976926b901a4396",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c605aacc2df050",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f29234f789269eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-PyTorch学习路线与文档总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00-PyTorch学习路线与文档总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "55c238877cad4fe7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-PyTorch学习路线与文档总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "00-PyTorch学习路线与文档总结 的出链列表"
+            }
+          },
+          {
+            "id": "6643d21d217b5b28",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9d834050a633c4bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2c5c9730f84f132a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-PyTorch学习路线与文档总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00-PyTorch学习路线与文档总结 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "38d00052c83157f0",
+  "lastOpenFiles": [
+    "42-自注意力和位置编码学习笔记.md",
+    "41-多头注意力学习笔记.md",
+    "39-注意力评分函数学习笔记.md",
+    "38-Nadaraya-Watson核回归学习笔记.md",
+    "37-查询键和值学习笔记.md",
+    "43-Transformer学习笔记.md",
+    "40-Bahdanau注意力学习笔记.md",
+    "36-Seq2Seq学习笔记.md",
+    "46-CIFAR-10图像分类学习笔记.md",
+    "44-ImageNet Dogs狗品种识别学习笔记.md",
+    "45-手写数字识别学习笔记.md",
+    "29-循环神经网络简洁实现学习笔记.md",
+    "28-从零实现循环神经网络学习笔记.md",
+    "22-ResNet学习笔记.md",
+    "23-DenseNet学习笔记.md",
+    "27-循环神经网络基础学习笔记.md",
+    "25-文本序列数据处理学习笔记.md",
+    "26-语言模型和序列采样学习笔记.md",
+    "32-CIFAR-10图像分类学习笔记.md",
+    "24-序列数据处理学习笔记.md",
+    "31-手写数字识别学习笔记.md",
+    "题目.md",
+    "24-手写数字识别学习笔记.md",
+    "21-批量归一化学习笔记.md",
+    "19-NiN学习笔记.md",
+    "18-VGG学习笔记.md",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260528094919.png",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260527233824.png",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260521174741.png",
+    "《深度学习入门 基于Python的理论与实现》笔记.pdf",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260521174720.png",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260521171919.png",
+    "深度学习入门 基于Python的理论与实现",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260521172528.png",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260521173259.png",
+    "深度学习入门 基于Python的理论与实现/Pasted image 20260521173241.png",
+    "Pasted image 20260521171911.png",
+    "Pasted image 20260521171916.png",
+    "Week1-Progress-Report-YangTao-5pages~2EF9F.tmp",
+    "~$Week1-Progress-Report-YangTao-5pages.pptx",
+    "Week1-Progress-Report-YangTao-5pages.pptx",
+    "weekly_progress_template.pptx",
+    "~$weekly_progress_template.pptx",
+    "generate_weekly_template.ps1",
+    "build_weekly_progress_ppt.py",
+    "Week1.pptx"
+  ]
+}
